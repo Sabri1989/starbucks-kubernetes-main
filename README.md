@@ -48,7 +48,7 @@ Explore the code and contribute to the project:
 
 Let's connect and discuss DevSecOps  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-017563278?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://https://www.linkedin.com/in/sabri-mnawwar-017563278/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-017563278?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabri-mnawwar-017563278/)  
 
 
 
